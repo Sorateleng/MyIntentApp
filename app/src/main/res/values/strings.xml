@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">pindah Activity</string>
+    <string name="move_with_data">Pindah Dengan Data</string>
+    <string name="dial_number">Telepon</string>
+    <string name="wa">Buka WA</string>
+    <string name="tele">Bula Telegram</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="This_move_activity">Ini Pindah Activity</string>
+</resources>
